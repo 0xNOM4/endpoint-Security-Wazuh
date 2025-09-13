@@ -30,3 +30,6 @@ Screenshot:
 ![Manager Running](wazuh_management_kali.png)
 wazuh allow to setup you visulization according your need
 ![visual](visulization_services.png)
+Total Agents and active agent
+Services
+![active agent and services](active%20agent%201.png)

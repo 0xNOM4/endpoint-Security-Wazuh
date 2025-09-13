@@ -27,5 +27,5 @@
 ✅ At this point, the Wazuh Manager should be running on Kali and listening for agent connections.
 
 Screenshot:
-![Manager Running](setup/wazuhmanagementkali.png)
+![Manager Running](setup/wazuh_management_kali.png)
 

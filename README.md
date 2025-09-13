@@ -23,3 +23,4 @@ Protect devices and servers from malware and unauthorized access.
 2. Install Wazuh Agent on Windows  
 3. Connect agent → manager  
 4. Generate a file change → verify alert in Wazuh logs
+

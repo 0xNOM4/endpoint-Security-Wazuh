@@ -25,3 +25,5 @@
      sudo systemctl status wazuh-manager
 
 ✅ At this point, the Wazuh Manager should be running on Kali and listening for agent connections.
+![Manager Running](setup/wazuh management kali.png)
+

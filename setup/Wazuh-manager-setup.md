@@ -7,7 +7,7 @@
    sudo apt update && sudo apt upgrade -y
 2. **Install required Packages**
    ```bash
- sudo apt install curl apt-transport-https lsb-release gnupg -y
+    sudo apt install curl apt-transport-https lsb-release gnupg -y
 4. **Import Wazuh GPG and repo**
 ```bash
 curl -s https://packages.wazuh.com/key/GPG-KEY-WAZUH | sudo apt-key add -

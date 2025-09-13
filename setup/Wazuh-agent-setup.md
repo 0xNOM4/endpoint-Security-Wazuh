@@ -11,6 +11,7 @@ This document explains how I installed and configured the **Wazuh Agent** on a W
   [Wazuh Agent MSI](https://packages.wazuh.com/4.x/windows/wazuh-agent-4.x.msi)
 
 ### 2. Run the installer
+![installing agent](agent.png)
 - During setup:
   - **Wazuh Manager IP** → Enter the IP address of your Kali VM (for example: `192.168.1.55`)
   - Keep all other options as default.

@@ -28,4 +28,5 @@
 
 Screenshot:
 ![Manager Running](wazuh_management_kali.png)
-
+wazuh allow to setup you visulization according your need
+![visual](visulization_services.png)
